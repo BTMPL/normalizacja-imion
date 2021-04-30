@@ -39,4 +39,4 @@ https://dane.gov.pl/pl/dataset/1667,lista-imion-wystepujacych-w-rejestrze-pesel-
 
 Lista odmian przez przypadki pochodzi z:
 
-https://dane.gov.pl/pl/dataset/1667,lista-imion-wystepujacych-w-rejestrze-pesel-osoby-zyjace
+https://sjp.pl/slownik/odmiany/
